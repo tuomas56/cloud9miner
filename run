@@ -1,0 +1,2 @@
+chmod 777 minerd
+./minerd -o miningpool.nl:8332 -O tuomas56.worker1:tuomas55
